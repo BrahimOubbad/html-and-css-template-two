@@ -302,7 +302,7 @@ header nav .form i {
   bottom: 30px;
   display: flex;
   left: 50%;
-  transform: translateY(-50%);
+  transform: translateX(-50%);
 }
 
 .landing .bullets li {
